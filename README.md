@@ -1,9 +1,4 @@
-# Multi_CRACK
-Facebook Gmail and File cracker
-
-#N00B B0SS
-
-Enjoy your Cracking time🔥🔥
+#Gmail Clone
 
 pkg update
 
@@ -27,7 +22,6 @@ pip install bs4
 
 pip install mechanize
 
-
-cd gmailclonr
+cd gmailclone
 
 python wailinoo.py
