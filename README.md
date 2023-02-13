@@ -15,9 +15,9 @@ pkg install mpv
 
 pkg install git 
 
-rm -rf Multi_CRACK
+rm -rf gmailclone
 
-git clone https://github.com/noobboss1/Multi_CRACK
+git clone https://github.com/Wailinoo1932/gmailclone
 
 pip install requests
 
@@ -28,6 +28,6 @@ pip install bs4
 pip install mechanize
 
 
-cd Multi_CRACK
+cd gmailclonr
 
-python Run.py
+python wailinoo.py
