@@ -12,7 +12,7 @@ pkg install git
 
 rm -rf gmailclone
 
-git clone https://github.com/Wailinoo1932/gmailclone
+git clone https://github.com/Wai-Lin-Oo/gmailclone
 
 pip install requests
 
