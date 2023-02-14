@@ -25,3 +25,5 @@ pip install mechanize
 cd gmailclone
 
 python wailinoo.py
+
+Use 1111 Vpn for OK...D
